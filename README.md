@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌉 mockinfurbee
+## Hi there! 👋
 
-<!--
-**mockinfurbee/mockinfurbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mockinfurbee)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Favourite stack:
+Architecture solutions  
+C# (11-12) + .NET 7-8, ASP.NET Core  
+WPF  
+SQL: Postgres (DBeaver), T-SQL (MS SQL Server, DBForge)  
+ORM: EF Core / Dapper  
+SOA or Microservices  
+JSON or protobuf 
+Redis, RabbitMQ, Kafka  
+Docker  
+Kubernetes  
+Git  
+Python, FastAPI  
+JavaScript, Angular  
+  
+# Also had an expierence and don't mind:  
+Computer models development  
+Analytics  
+Windows Forms (including MVP)  
+HTML x CSS
